@@ -19,10 +19,9 @@
   <summary>
     <strong>👩🏻‍💻 노션에 정리하고 제대로 이해한 내용만 여기에 올려두는 중입니다 (👈 Click!)</strong>
   </summary>
-  <img width="400px;" src="./images/notion.png" />
+  <img width="600px;" src="./images/notion.png" />
 </details>
 
 <br />
-<br />
 
-### [1. FE]()
+### [1. FE](https://github.com/mireyhgnay/tech-interview/blob/main/FE/FE.md)
