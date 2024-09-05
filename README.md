@@ -25,3 +25,5 @@
 <br />
 
 ### [1. FE](https://github.com/mireyhgnay/tech-interview/blob/main/FE/FE.md)
+
+### [2. CSS](https://github.com/mireyhgnay/tech-interview/blob/main/CSS/CSS.md)
